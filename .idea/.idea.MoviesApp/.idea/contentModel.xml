@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Михаил\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Михаил\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_MoviesApp.-420915245.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Михаил\RiderProjects\MoviesApp" t="IncludeFlat">
+      <e p="MoviesApp" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ActorsApiController.cs" t="Include" />
+          <e p="ActorsController.cs" t="Include" />
+          <e p="HelloWorldController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="MoviesApiController.cs" t="Include" />
+          <e p="MoviesController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="Migrations" t="Include">
+            <e p="20201118184244_init.cs" t="Include" />
+            <e p="20201118184244_init.Designer.cs" t="Include" />
+            <e p="20201120194548_init2.cs" t="Include" />
+            <e p="20201120194548_init2.Designer.cs" t="Include" />
+            <e p="MoviesContextModelSnapshot.cs" t="Include" />
+          </e>
+          <e p="MoviesContext.cs" t="Include" />
+          <e p="SeedData.cs" t="Include" />
+        </e>
+        <e p="Filters" t="Include">
+          <e p="CheckingTheActorForTheAgeOfSevenToNinetyNineYears.cs" t="Include" />
+          <e p="ShortNameAttribute.cs" t="Include" />
+        </e>
+        <e p="MiddleWare" t="Include">
+          <e p="RequestLogMiddleware.cs" t="Include" />
+          <e p="RequestLogMiddlewareExtensions.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Actor.cs" t="Include" />
+          <e p="Movie.cs" t="Include" />
+        </e>
+        <e p="MoviesApp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MoviesApp.AssemblyInfo.cs" t="Include" />
+              <e p="MoviesApp.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="ActorViewModel.cs" t="Include" />
+          <e p="AutoMapperProfiles" t="Include">
+            <e p="MovieProfile.cs" t="Include" />
+          </e>
+          <e p="DeleteActorViewModel.cs" t="Include" />
+          <e p="DeleteMovieViewModel.cs" t="Include" />
+          <e p="EditActorViewModel.cs" t="Include" />
+          <e p="EditMovieViewModel.cs" t="Include" />
+          <e p="InputActorViewModel.cs" t="Include" />
+          <e p="InputMovieViewModel.cs" t="Include" />
+          <e p="MovieViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Actors" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="HelloWorld" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="Movies" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MoviesApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
